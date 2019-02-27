@@ -3,7 +3,7 @@ import UIKit
 
 class WeatherDataModel {
 
-    //different variables that will be shown on main.storyboard
+    //different variables that will be shown on main.storyboard - New comments
     var temperature : Int = 0
     var condition : Int = 0
     var city : String = ""
